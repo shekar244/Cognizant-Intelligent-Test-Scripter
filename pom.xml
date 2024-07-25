@@ -34,7 +34,7 @@
         <jcsv.version>1.4.0</jcsv.version>         
         
         <jackson.version>2.8.8</jackson.version>
-        <commonscsv.version>1.4</commonscsv.version>
+        <commonscsv.version>1.11.0</commonscsv.version>
         <annon.detect>3.0.5</annon.detect>
         <jetty.version>9.4.5.v20170502</jetty.version>
         
